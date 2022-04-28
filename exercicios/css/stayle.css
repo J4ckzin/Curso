@@ -1,0 +1,20 @@
+li
+{
+    color: rgb(238, 255, 0);
+}
+h1
+{
+    font-size: 50px
+    color rgb(0, 174, 255);
+    background-color: grey;
+    border: 2px dashed blue;
+}
+
+body {
+    background-image: url('https://images6.alphacoders.com/878/thumb-1920-878584.jpg');
+    background-repeat: no-repeat;
+    background-size: cover
+}
+#cali{
+    color: aquamarine;
+}

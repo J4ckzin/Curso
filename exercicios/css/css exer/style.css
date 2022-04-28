@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2? family= Tapeçaria & display=swap');
+*{
+ background-color: rgb(233, 205, 240);  
+}
+.post {
+    color: rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h1 {
+    color: rgb(36, 212, 243);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.post-container {
+    margin: 0px auto 0px auto;
+    padding: 50px;
+    width: 70%;
+}
+.post-container div.post-container {
+    width: 90%;
+    font-family: 0px;
+    font-weight: 100px;
+}

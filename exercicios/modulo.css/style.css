@@ -1,0 +1,28 @@
+li
+{
+    color: rgb(21, 255, 0);
+}
+h1
+{
+    font-size: 120px
+    color rgb(0, 174, 255);
+    background-color: rgb(35, 201, 159);
+}
+
+body {
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+h2{
+    color: rgb(255, 0, 0);
+    background-color: rgb(35, 201, 159);
+}
+h1{
+    color: black;
+}
+
+#astronomy-class{
+    color: rgb(255, 8, 181);
+}
